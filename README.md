@@ -1,9 +1,9 @@
 # 💫 About Me:
-•	🔧 I’m currently working on: Site reliability at IBM Kraków, focusing on maintaining and enhancing system performance and reliability.<br>•	🤝 I’m looking to collaborate on: Commercial B2B projects that leverage my skills in data compression, algorithms, and systems optimization.<br>•	🙏 I’m looking for help with: Training and mentoring in competitive programming, as well as in specialized areas like embedded systems and C++ development.<br>•	🌱 I’m currently learning: Python and Linux to expand my technical capabilities and adapt to various development environments.<br>•	💬 Ask me about: Challenges and triumphs in implementing advanced compression algorithms during my tenure at Huawei Poland or transitioning backend technologies at EUROLOOP.<br>•	⚡ Fun fact: Participated in multiple programming olympiads and secured various diplomas and certifications, reflecting a strong background in competitive programming and software development.
+•	🔧 I’m currently working on: Software Development at Google, focusing on maintaining and enhancing system performance and reliability in the Cloud CDN team.<br>•	🤝 I’m looking to collaborate on: Commercial B2B projects that leverage my skills in data compression, algorithms, and systems optimization.<br>• 🌱 I’m currently learning: Python and Linux to expand my technical capabilities and adapt to various development environments.<br>•	💬 Ask me about: Challenges and triumphs in implementing advanced compression algorithms during my tenure at Huawei Poland or transitioning backend technologies at EUROLOOP.<br>•	⚡ Fun fact: Participated in multiple programming olympiads and secured various diplomas and certifications, reflecting a strong background in competitive programming and software development.
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/del1ke) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/del1ke) 
 [![Codeforces](https://codeforces.com/profile/del1ke)
 [![Leetcode](https://leetcode.com/u/del1ke/)
 [![HackerRank](https://www.hackerrank.com/profile/del1ke)
